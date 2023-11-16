@@ -1,0 +1,24 @@
+{
+  "name": "from_date_to_timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp From Date",
+  "main": "formatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimGitFE/from_Date_to_timestamp.git"
+  },
+  "keywords": [
+    "timestamp",
+    "date",
+    "format"
+  ],
+  "author": "Jim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimGitFE/from_Date_to_timestamp/issues"
+  },
+  "homepage": "https://github.com/JimGitFE/from_Date_to_timestamp#readme"
+}
